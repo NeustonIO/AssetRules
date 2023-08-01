@@ -1,0 +1,12 @@
+{
+  "name": "io.neuston.assetrules",
+  "displayName": "Asset Rules",
+  "author": "Neuston",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Helps you create and enforce rules for your assets.",
+  "category": "",
+  "dependencies":
+  {
+  }
+}
